@@ -16,7 +16,7 @@ Example
 
 got a failing spec???
 
->> ruby script/plugin install git://github.com/matthewrudy/MakeSpecsBetter
+>> ruby script/plugin install git://github.com/matthewrudy/make_specs_better
 
 and a quick
 
