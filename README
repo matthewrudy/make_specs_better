@@ -1,18 +1,29 @@
 MakeSpecsBetter
 ===============
 
-Tired of broken specs?
-Need some help to get through the day?
-Maybe, just maybe, MakeSpecsBetter can help youget through it.
+Tired of writing bad code?
+Finding it tough to maintain your spec suite?
+Maybe, just maybe, MakeSpecsBetter can help you get through it.
 
+Using cutting edge debugging tricks,
+and AI patterns developed by the military,
+MakeSpecsBetter will transform your Rspec suite with only a few keypresses.
+
+"rake away the pain!"
 
 Example
 =======
 
-ruby script/plugin install git://github.com/matthewrudy/MakeSpecsBetter
+got a failing spec???
 
-rake spec BETTER=true - "take away  your troubles"
-rake spec:better      - "make your dreams come alive"
-export BETTER=true    - "rake away the pain"
+>> ruby script/plugin install git://github.com/matthewrudy/MakeSpecsBetter
+
+and a quick
+
+ >> rake spec BETTER=true
+or
+ >> rake spec:better
+
+and your troubles will be no more.
 
 Copyright (c) 2008 [Matthew Rudy Jacobs], released under the MIT license
