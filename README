@@ -1,13 +1,18 @@
 MakeSpecsBetter
 ===============
 
-Introduction goes here.
+Tired of broken specs?
+Need some help to get through the day?
+Maybe, just maybe, MakeSpecsBetter can help youget through it.
 
 
 Example
 =======
 
-Example goes here.
+ruby script/plugin install git://github.com/matthewrudy/MakeSpecsBetter
 
+rake spec BETTER=true - "take away  your troubles"
+rake spec:better      - "make your dreams come alive"
+export BETTER=true    - "rake away the pain"
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 [Matthew Rudy Jacobs], released under the MIT license
